@@ -1,5 +1,11 @@
 # animated_clock
-A functioning 24-HOUR animated digital clock made up of analogue clocks 
+A 24-HOUR functioning animated digital clock made up of analogue clocks 
+
+Features:
+- Turtle Library
+- Python (OOP, loops, and functions)
+-  Clock aesthetic based on the preference of teenagers aged 16-18 at my school 
+
 
 3-minute video: https://www.youtube.com/watch?v=29vgdt9xEZM
 
